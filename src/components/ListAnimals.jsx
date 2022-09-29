@@ -6,7 +6,7 @@ function ListAnimals(){
     const [perritosApi, AnimalesApi] = useState([])
 
     useEffect(()=>{
-     axios.get("http://localhost:3000/forThem")
+     axios.get("https://data-animals.netlify.app/data.json")
         .then((res) => {
             AnimalesApi(res.data)
         })
