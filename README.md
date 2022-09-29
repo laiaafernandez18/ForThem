@@ -5,15 +5,14 @@
 
 
 ## Tabla de Contenidos
-1. [Información General](#información-general)
-2. [Capturas de Pantalla ](#capturas-de-pantalla)
-2. [Tecnologías](#tecnologías)
-3. [Instalación](#instalación)
-4. [Soporte](#soporte)
-6. [Hoja de ruta](#hoja-de-ruta)
-7. [Colaboración](#colaboración)
-8. [Autores](#autores)
-9. [FAQs](#faqs)
+***
+. [Información General](#información-general)2. [Capturas de Pantalla ](#capturas-de-pantalla)
+. [Tecnologías](#tecnologías)
+. [Instalación](#instalación)
+. [Soporte](#soporte)
+. [Colaboración](#colaboración)
+. [Autores](#autores)
+
 
 ## Información General
 ***
@@ -31,14 +30,17 @@ Este es el disseño en Figma de este proyecto:
 Link de Figma:
 https://www.figma.com/file/q86yfEygjji7xcVVVf0Wxz/Untitled?node-id=0%3A1
 
-Pagina Welcome
-![](src/Imagenes/welcome.png)
+Trello:
+![](../TRELLO.png)
+link Trello:
+https://www.figma.com/file/q86yfEygjji7xcVVVf0Wxz/Untitled?node-id=0%3A1
 
 Boton Menu Burger funcional
 ![](../Burger.png)
 
 
 ## Tecnologías
+***
 Lista de tecnologías usadas en el desarrollo del proyecto:
 * HTML: Version HTML 5
 * CSS: Version CSS3
@@ -66,9 +68,6 @@ Instalar React-router-dom.
  ***
 En cualquier caso de duda contactar con:
 ejemplo@gmail.com
-
-## Hoja de ruta
-***
 
 
 ## Colaboración
