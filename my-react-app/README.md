@@ -1,73 +1,57 @@
-# Getting Started with Create React App
+# ForThem
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+***
+![imagen-principal](./src/imagenes/principal.png)
 
 
-El nombre de este proyecto es ForThem ya que esta enfocado en darle visibilidad a quien no tiene voz, el objetivo es ayudar.
+## Tabla de Contenidos
+1. [Información General](#información-general)
+2. [Tecnologías](#tecnologías)
+3. [Instalación](#instalación)
+4. [Soporte](#soporte)
+6. [Hoja de ruta](#hoja-de-ruta)
+7. [Colaboración](#colaboración)
+8. [Autores](#autores)
+9. [FAQs](#faqs)
+
+## Información General
+***
+
+El nombre de este proyecto es ForThem ya que esta enfocado en darle visibilidad a quien no tiene voz, el objetivo principal es ayudar.
+
+Es una aplicación móvil donde damos un espacio para cada animal contando su historia y sus caracteristicas para favorecer la adopción pero tambien el voluntariado y las donaciones.
+
+Queremos darle un pequeño giro al tema de el voluntariado ya que muchas veces no hay posibilidad de adopción y poder dar un hogar y la estabilidad que necesitan, esta pensado para personas que quieran tanto dar tiempo de calidad a los animales como ayudarlos. A si también las donaciones no estan pensadas para dar dinero sino materiales útiles para favorecer sus condiciones y también complementar las ayudas de los voluntarios.
+
+Instalación:
+
+###1. Crear un proyecto de react: npx create-react-app. ###2. Instalar React Router Dom, versión 6: npm install react-router-dom@6. ###3. Instalar axios: npm install axios. ###4. Instalar styled-components: npm i styled-components@5.0.0. ###5. Instalar Bostrap (finalmenteno utilizado).
+
+Estado de el proyecto
+***
+El estado de este proyecto es en desarrollo quedan mejoras que hacer y funcionalidades que darle y tambien en un futuro hacer la pagina web.
+
+
+## Instalación
+***
+
+Como instalar el repositorio:
+
+Ingresar en Visual Studio Code
+Clonar el proyecto con el comando:
+git clone https://github.com/laiaafernandez18/ForThem
+En Visual Studio Code:
+
+Instalar React.js
+Instalar React-router-dom.
+
+## Tecnologías
+Lista de tecnologías usadas en el desarrollo del proyecto:
+* HTML: Version HTML 5
+* CSS: Version CSS3
+* Json-Server
+* React
+* Api rest
+* styled-components: npm i 
+* Axios
+* Bostrap (finalmenteno utilizado)

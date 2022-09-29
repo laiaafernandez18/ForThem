@@ -599,4 +599,13 @@ border-radius: 31px;
   height: 606px;
   width: 389px;
 }
+.emoji-edi{
+  height: 12px;
+  height: 9px;
+  font-size: 27px;
+  display: flex;
+  justify-content: end;
+  align-items: self-end;
+  margin-right: 34px;
+}
 }

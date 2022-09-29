@@ -26,6 +26,7 @@ function OpenCard(){
             <div className="container-open">
                 <div className="box-open-text">
                         <h3 className="tx-lolita">Lolita</h3>
+                        <p className="emoji-edi">♀</p>
                             <p className="tx-card-lore">lorem ipsum Lorem Ipsum is simply dummy text of the printing and 
                             typesetting industry. Lorem Ipsum has been the industry's standard Ipsum is simply dummy text of the printing and  typesetting industry. Lorem Ipsum has been the industry's standardIpsis simply dummy text of the printing andtypesetting industry. Lorem Ipsum has been the industry's standard</p>
 
