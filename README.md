@@ -31,13 +31,12 @@ Link de Figma:
 https://www.figma.com/file/q86yfEygjji7xcVVVf0Wxz/Untitled?node-id=0%3A1
 
 Trello:
-![](../TRELLO.png)
+![](src/Imagenes/TRELLO.png)
 link Trello:
 https://www.figma.com/file/q86yfEygjji7xcVVVf0Wxz/Untitled?node-id=0%3A1
 
 Boton Menu Burger funcional
-![](../Burger.png)
-
+![](src/Imagenes/burger.png)
 
 ## Tecnologías
 ***
