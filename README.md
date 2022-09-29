@@ -6,12 +6,13 @@
 
 ## Tabla de Contenidos
 ***
-1. [Información General](#información-general)2. [Capturas de Pantalla ](#capturas-de-pantalla)
-2. [Tecnologías](#tecnologías)
-3. [Instalación](#instalación)
-4. [Soporte](#soporte)
-5. [Colaboración](#colaboración)
-6. [Autores](#autores)
+1. [Información General](#información-general)2.
+2. [Capturas de Pantalla ](#capturas-de-pantalla)
+3. [Tecnologías](#tecnologías)
+4. [Instalación](#instalación)
+5. [Soporte](#soporte)
+6. [Colaboración](#colaboración)
+7. [Autores](#autores)
 
 
 ## Información General
@@ -29,13 +30,14 @@ Este es el disseño en Figma de este proyecto:
 ![](src/Imagenes/Nuevo%20proyecto.png)
 Link de Figma:
 https://www.figma.com/file/q86yfEygjji7xcVVVf0Wxz/Untitled?node-id=0%3A1
-
+***
 Trello:
 ![](src/Imagenes/TRELLO.png)
 link Trello:
 https://www.figma.com/file/q86yfEygjji7xcVVVf0Wxz/Untitled?node-id=0%3A1
+***
+Boton Menu Burger funcional:
 
-Boton Menu Burger funcional
 ![](src/Imagenes/Burgerejemplo.png)
 
 ## Tecnologías
