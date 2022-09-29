@@ -1,7 +1,6 @@
 {
   "name": "my-react-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/laiaafernandez18/ForThem",
   "private": true,
   "dependencies": {
     "@mui/material": "^5.10.7",

@@ -37,6 +37,6 @@
              
              
              para abrir en terminal
-             json-server --watch db.json
+             json-server --watch src/assets/data/data.json
               http://localhost:3000/forThem
              
