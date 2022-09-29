@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/laiaafernandez18/ForThem/static/css/main.c2013ed7.css",
+    "main.js": "/laiaafernandez18/ForThem/static/js/main.5282d578.js",
+    "static/media/ubication.jpg": "/laiaafernandez18/ForThem/static/media/ubication.174786e5a2bbfcf65fa2.jpg",
+    "static/media/DonateHand.png": "/laiaafernandez18/ForThem/static/media/DonateHand.ba996a443246969f2ceb.png",
+    "static/media/iconDOG.png": "/laiaafernandez18/ForThem/static/media/iconDOG.54bc98a7816f834da31c.png",
+    "static/media/principal.jpg": "/laiaafernandez18/ForThem/static/media/principal.9cea4a57c3f4527b76b4.jpg",
+    "static/media/iconREPTIL.png": "/laiaafernandez18/ForThem/static/media/iconREPTIL.4af718a1ffc74977a468.png",
+    "static/media/iconRABIT.png": "/laiaafernandez18/ForThem/static/media/iconRABIT.79ad8e20bcc13d49b015.png",
+    "static/media/iconPARROT.png": "/laiaafernandez18/ForThem/static/media/iconPARROT.54b050269d440d1e6d2b.png",
+    "static/media/iconCAT.png": "/laiaafernandez18/ForThem/static/media/iconCAT.9d1e00d28058a0ac1e94.png",
+    "static/media/fondo.webp": "/laiaafernandez18/ForThem/static/media/fondo.a97412665d16e04aca07.webp",
+    "index.html": "/laiaafernandez18/ForThem/index.html",
+    "main.c2013ed7.css.map": "/laiaafernandez18/ForThem/static/css/main.c2013ed7.css.map",
+    "main.5282d578.js.map": "/laiaafernandez18/ForThem/static/js/main.5282d578.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2013ed7.css",
+    "static/js/main.5282d578.js"
+  ]
+}
