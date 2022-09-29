@@ -1,0 +1,42 @@
+>
+
+
+
+<div className="box-tittle">
+    <div class="title-forthem">ForThem</div>
+    </div>
+
+
+
+
+<div className="box-links">
+            <Link to="/Home" >Home</Link>
+            <Link to="/OpenCard"  >Opencard</Link>
+            <Link to="/Voluntaried"  
+            >Voluntariado</Link>
+            <Link to="/Donate" >Donaciones</Link>     
+            </div>
+        
+
+
+
+
+
+            let perritosApi=['firulais','pluto','lucas'] 
+
+            {perritosApi.map((element)=>(
+                <div>{perritosApi}</div>
+             ))}
+
+
+
+             npm i styled-components@5.0.0
+
+             npm install @mui/material
+             
+             
+             
+             para abrir en terminal
+             json-server --watch db.json
+              http://localhost:3000/forThem
+             

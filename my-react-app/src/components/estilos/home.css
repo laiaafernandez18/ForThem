@@ -1,0 +1,32 @@
+
+  .container-cards{
+    margin: 8%;
+ }
+
+ .icond-ped{
+  height: 58px;
+  width: 65px;
+  background-color: rgb(255, 246, 191);
+  border: none;
+  border-radius: 20%;
+ }
+ .container-icons-peds{
+  display: inline-block;
+  align-items: center;
+  margin: 6%;
+ }
+ .card-img{
+  height: 58px;
+  width: 65px;
+  border-radius: 20%;
+ }
+
+ .container-carts{
+  margin:8%;
+ }
+ 
+ .img-card{
+  height: 194px;
+  width: 160px;
+  border-radius: 31px;
+ }
